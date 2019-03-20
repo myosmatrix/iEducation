@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">iEducation</string>
+    <string name="app_description">智慧教育-AR互动演示</string>
+    
+    <string name="button_start">开始</string>
+    
+    <string name="INIT_ERROR">错误</string>
+    <string name="INIT_ERROR_DEVICE_NOT_SUPPORTED">初始化Vuforia失败，不支持该设备。</string>
+    <string name="INIT_ERROR_NO_CAMERA_ACCESS">初始化Vuforia失败，相机不可访问</string>
+    <string name="INIT_LICENSE_ERROR_MISMATCH_KEY">Vuforia应用密匙无效，请提供有效密匙。</string>
+    <string name="INIT_LICENSE_ERROR_MISSING_KEY">Vuforia应用密匙丢失，请提供有效密匙。</string>
+    <string name="INIT_LICENSE_ERROR_INVALID_KEY">密匙无效，请提供有效密匙。</string>
+    <string name="INIT_LICENSE_ERROR_NO_NETWORK_TRANSIENT">无法连接服务器，请稍后再试。</string>
+    <string name="INIT_LICENSE_ERROR_NO_NETWORK_PERMANENT">网络不可用，请确定您已经连上互联网。</string>
+    <string name="INIT_LICENSE_ERROR_CANCELED_KEY">应用密匙已失效，不能继续使用。</string>
+    <string name="INIT_LICENSE_ERROR_PRODUCT_TYPE_MISMATCH">Vuforia应用密匙无效，请提供有效密匙。</string>
+    <string name="INIT_LICENSE_ERROR_UNKNOWN_ERROR">初始化Vuforia失败。</string>
+    <string name="menu_back">关于</string>
+    <string name="menu_extended_tracking">扩展跟踪</string>
+    <string name="menu_flash">闪光灯</string>
+    <string name="menu_flash_error_on">无法打开闪光灯</string>
+    <string name="menu_flash_error_off">无法关闭闪光灯</string>
+    <string name="menu_contAutofocus">自动对焦</string>
+    <string name="menu_contAutofocus_error_on">无法激活连续自动对焦</string>
+    <string name="menu_contAutofocus_error_off">无法禁用连续自动对焦</string>
+    <string name="menu_playFullscreenVideo">全屏播放</string>
+    <string name="menu_camera">相机</string>
+    <string name="menu_camera_front">前置</string>
+    <string name="menu_camera_back">后置</string>
+        
+    <string name="splash_screen_description">展示</string>
+    
+</resources>
